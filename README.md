@@ -7,7 +7,7 @@
 
 ## Getting started
 
-DevScribble is an opensource community where deveopers and designers can share their experience, journey and story to the world. It is built with the sole purpose for educating and enlightening other developers out there mostly junior deveopers who seem lost.
+DevScribble is an opensource community where developers and designers can share their experience, journey and story to the world. It is built with the sole purpose for educating and enlightening other developers out there mostly junior developers who seem lost.
 
 ## Features
 
