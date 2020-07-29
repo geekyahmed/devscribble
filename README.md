@@ -49,9 +49,7 @@ password: `12345`
 **IMPORTANT:** Database resets every 30 mins like "12:00am, 12:30am, 1:00am" and so on. So anything you do with the API will be lost after a short time.
 
 [API documentation](###api-documentation)  
-[Postman API example collection](###postman-api-example-collection)  
-If you want to test it don´t forget to change the server variable to:  
-`https://api-demo.daniel-avellaneda.com`
+[Postman API example collection](###postman-api-example-collection)
 
 ## How to install
 
