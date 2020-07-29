@@ -1,11 +1,11 @@
 {
-  "name": "node-express-mongodb-jwt-rest-api-skeleton",
+  "name": "devscribble",
   "version": "8.1.4",
-  "description": "Node.js express.js MongoDB JWT REST API - This is a basic API REST skeleton written on JavaScript using async/await. Great for building a starter web API for your front-end (Android, iOS, Vue, react, angular, or anything that can consume an API)",
+  "description": "DevScribble - DevScribble is an opensource community where deveopers and designers can share their experience, journey and story to the world. It is built with the sole purpose for educating and enlightening other developers out there mostly junior deveopers who seem lost.",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/davellanedam/node-express-mongodb-jwt-rest-api-skeleton.git"
+    "url": "https://github.com/geekyahmed/devscribble.git"
   },
   "scripts": {
     "start": "cross-env NODE_ENV=production pm2 start server.js",
